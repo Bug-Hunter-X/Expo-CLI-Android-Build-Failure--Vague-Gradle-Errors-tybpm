@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android project.  The error message is often vague, sometimes mentioning issues with gradle or Android build tools. The build process will fail and not produce a usable APK.
